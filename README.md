@@ -40,3 +40,6 @@ A Retrieval-Augmented Generation (RAG) assistant built with LangChain, Google Ge
 ## 5. Run the Application
 
 ```streamlit run app.py```
+
+## Video Demo
+[Watch the Project Demo Video]([https://drive.google.com/file/d/YOUR_FILE_ID/view?usp=sharing](https://drive.google.com/file/d/1GzJ3norD_tUjSWS_TfX8_g0oYY24U2rE/view?usp=drive_link))
