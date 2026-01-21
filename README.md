@@ -22,7 +22,7 @@ A Retrieval-Augmented Generation (RAG) assistant built with LangChain, Google Ge
 ##  Installation & Setup
 1. Clone the repository:
    ```bash
-   git clone <https://github.com/Lakshya0018UP/GENAI>
+   git clone https://github.com/Lakshya0018UP/GENAI
    cd GENAI
 
 ## 2. Create `.env` file
